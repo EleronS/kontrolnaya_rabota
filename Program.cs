@@ -5,6 +5,7 @@
 //лучше обойтись исключительно массивами.
 
 int N=3;
+System.Console.WriteLine($"Введите {N} строк(и): ");
 string[] t;
 t= new string[N];
 for(int i=0;i<N;i++)
@@ -29,6 +30,7 @@ void ArrayO(string[]t,string[]m)
 
 void PrintArr(string[]m)
 {
+    System.Console.Write("Строки с значением три или менее символов:  ");
     for(int i=0;i<m.Length;i++)
          System.Console.Write($"{m[i],5}");
 }
