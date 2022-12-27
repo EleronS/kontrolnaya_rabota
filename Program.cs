@@ -27,4 +27,11 @@ void ArrayO(string[]t,string[]m)
 }
 }
 
+void PrintArr(string[]m)
+{
+    for(int i=0;i<m.Length;i++)
+         System.Console.Write($"{m[i],5}");
+}
 ArrayO(t,m);
+System.Console.WriteLine();
+PrintArr(m);

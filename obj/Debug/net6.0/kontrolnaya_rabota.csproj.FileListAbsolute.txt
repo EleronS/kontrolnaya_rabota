@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\Kontrolnaya_rabota\kontrolnaya_rabota\bin\Debug\net6.0\kontrolnaya_rabota.exe
+C:\Users\elf\Desktop\Kontrolnaya_rabota\kontrolnaya_rabota\bin\Debug\net6.0\kontrolnaya_rabota.deps.json
+C:\Users\elf\Desktop\Kontrolnaya_rabota\kontrolnaya_rabota\bin\Debug\net6.0\kontrolnaya_rabota.runtimeconfig.json
+C:\Users\elf\Desktop\Kontrolnaya_rabota\kontrolnaya_rabota\bin\Debug\net6.0\kontrolnaya_rabota.dll
+C:\Users\elf\Desktop\Kontrolnaya_rabota\kontrolnaya_rabota\bin\Debug\net6.0\kontrolnaya_rabota.pdb
+C:\Users\elf\Desktop\Kontrolnaya_rabota\kontrolnaya_rabota\obj\Debug\net6.0\kontrolnaya_rabota.csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\Kontrolnaya_rabota\kontrolnaya_rabota\obj\Debug\net6.0\kontrolnaya_rabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\Kontrolnaya_rabota\kontrolnaya_rabota\obj\Debug\net6.0\kontrolnaya_rabota.AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\Kontrolnaya_rabota\kontrolnaya_rabota\obj\Debug\net6.0\kontrolnaya_rabota.AssemblyInfo.cs
+C:\Users\elf\Desktop\Kontrolnaya_rabota\kontrolnaya_rabota\obj\Debug\net6.0\kontrolnaya_rabota.csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\Kontrolnaya_rabota\kontrolnaya_rabota\obj\Debug\net6.0\kontrolnaya_rabota.dll
+C:\Users\elf\Desktop\Kontrolnaya_rabota\kontrolnaya_rabota\obj\Debug\net6.0\refint\kontrolnaya_rabota.dll
+C:\Users\elf\Desktop\Kontrolnaya_rabota\kontrolnaya_rabota\obj\Debug\net6.0\kontrolnaya_rabota.pdb
+C:\Users\elf\Desktop\Kontrolnaya_rabota\kontrolnaya_rabota\obj\Debug\net6.0\kontrolnaya_rabota.genruntimeconfig.cache
+C:\Users\elf\Desktop\Kontrolnaya_rabota\kontrolnaya_rabota\obj\Debug\net6.0\ref\kontrolnaya_rabota.dll
