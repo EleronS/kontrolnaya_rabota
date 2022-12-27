@@ -23,7 +23,7 @@ void ArrayO(string[]t,string[]m)
     }
       if(k<=3)
        m[i]= t[i];
-    
+        
     k=0;
 }
 }

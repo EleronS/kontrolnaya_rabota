@@ -1,1 +1,12 @@
-# kontrolnaya_rabota
+# kontrolnaya_rabota #
+* ## Репозиторий создан 26.12.22 ##
+ 1. Подготовлена блок схема проекта
+ ![Untitled.png](Kontrolnaya_rabota/kontrolnaya_rabota/Untitled.png)
+ 2. Оформлен репозиторий
+ 3. Решение задачи проекта
+ 4. Сохранение всех коммитов
+ 5. Проверка результата
+ 6. Сохранение проекиа
+
+
+
